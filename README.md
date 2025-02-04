@@ -14,6 +14,7 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![R](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=r&logoColor=white&color=A8B9CC)
 
 #### **Data Science & ML Tools:**  
 ![Pandas](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
