@@ -2,7 +2,7 @@
 
 ### I'm Rachel Sylvia!
 
-🎓 **Final Year Computer Science Student** | 📊 **Data Science Enthusiast** | ✈️ **Aspiring Data Scientist at Emirates Aviation**
+🎓 **Final Year Computer Science Student** | 📊 **Data Science Enthusiast** | ✈️ **Aspiring Data Scientist**
 
 Currently in my final year of BSc in Computer Science specializing in Data Science, with a passion for applying data-driven solutions in the aviation industry. Always eager to explore, analyze, and build predictive models for real-world challenges.
 
