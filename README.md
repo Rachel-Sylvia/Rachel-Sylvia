@@ -36,6 +36,7 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 #### **Tools & Platforms:**  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F9AB00)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=217346)
 ![Dataiku](https://img.shields.io/badge/Dataiku-informational?style=flat&logo=dataiku&logoColor=white&color=4B8BBE)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
