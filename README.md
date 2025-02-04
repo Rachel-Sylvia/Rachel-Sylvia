@@ -61,9 +61,5 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rachel-Sylvia&theme=dracula&hide_rank=true">
     <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-Sylvia&hide_progress=true&theme=dracula">
 </div>
-<p><b>Note:</b> The top languages metric reflects my public repositories and does not indicate proficiency level.</p>
+
 </details>
-
----
-
-![Visitor Badge](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRachel-Sylvia)
