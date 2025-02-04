@@ -14,12 +14,15 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ![R](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 
-#### **Data Science & ML Tools:**  
+#### **Data Science & ML Tools, Data Visualization & Analytics:**  
 ![Pandas](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
+![D3.js](https://img.shields.io/badge/D3.js-informational?style=flat&logo=d3.js&logoColor=white&color=F9A03C)
+![Power BI](https://img.shields.io/badge/Power%20BI-informational?style=flat&logo=power-bi&logoColor=white&color=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=E97627)
 
 #### **Databases & Big Data:**  
 ![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
