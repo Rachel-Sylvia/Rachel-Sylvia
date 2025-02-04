@@ -30,12 +30,12 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ![Protege](https://img.shields.io/badge/Protege-informational?style=flat&logoColor=white&color=004D40)
 
 #### **Tools & Platforms:**  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F9AB00)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)  
-![Dataiku](https://img.shields.io/badge/Dataiku-informational?style=flat&logo=dataiku&logoColor=white&color=4B8BBE)  
-![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)  
-![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)  
-![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F9AB00)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
+![Dataiku](https://img.shields.io/badge/Dataiku-informational?style=flat&logo=dataiku&logoColor=white&color=4B8BBE)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)
 ![JustinMind](https://img.shields.io/badge/JustinMind-informational?style=flat&logoColor=white&color=005571)  
 
 #### **Web Development:**  
