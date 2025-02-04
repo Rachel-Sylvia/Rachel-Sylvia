@@ -2,7 +2,7 @@
 
 ### I'm Rachel Sylvia!
 
-🎓 **Final Year Computer Science Student** | **Teaching Assisstant at Heriot Watt University, Dubai** | 📊 **Data Science Enthusiast** | ✈️ **Aspiring Data Scientist**
+🎓 **Final Year Computer Science Student** | **Teaching Assisstant at Heriot Watt University, Dubai** | 📊 **Data Science Enthusiast** | 👩‍💻 **Aspiring Data Scientist**
 
 Currently in my final year of BSc in Computer Science specializing in Data Science, with a passion for applying data-driven solutions in the aviation industry. Always eager to explore, analyze, and build predictive models for real-world challenges.
 
