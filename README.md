@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### I'm Rachel Sylvia!
+## Hi there!👋I'm Rachel Sylvia!
 
 🎓 **Final Year Computer Science Student** | **Teaching Assisstant at Heriot Watt University, Dubai** | 📊 **Data Science Enthusiast** | 👩‍💻 **Aspiring Data Scientist**
 
