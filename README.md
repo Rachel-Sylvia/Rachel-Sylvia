@@ -50,8 +50,8 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ---
 
 ### 📫 **Let's Connect!**
-<a href="https://www.linkedin.com/in/rachel-sylvia"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"></a>
-<a href="mailto:rachel.sylvia@example.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4"></a>
+<a href="https://www.linkedin.com/in/rachel-sylv/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"></a>
+<a href="mailto:rachelsylvi333@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4"></a>
 
 ---
 
