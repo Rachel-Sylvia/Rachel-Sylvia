@@ -28,7 +28,6 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
-![protégé](https://img.shields.io/badge/Protege-informational?style=flat&logoColor=white&color=004D40)
 
 #### **Web Development:**  
 ![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
