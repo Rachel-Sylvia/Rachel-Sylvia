@@ -19,7 +19,6 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 #### **Data Science & ML Tools:**  
 ![Pandas](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=python&logoColor=white&color=11557C)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
