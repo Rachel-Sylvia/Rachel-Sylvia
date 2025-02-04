@@ -44,14 +44,14 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 
 ---
 
-### 🌱 **Current Projects & Research**
+### 👩‍💻 **Current Projects & Research**
 - **Final Year Thesis:** Developing a better forecasting model for hurricanes/cyclones using data-driven approaches.
 - **COVID Classification:** Implementing clustering models with PCA for COVID-19 patient classification.
 - **Statistical Programming & Analysis:** Conducted extensive research using R.
 
 ---
 
-### 👯 **Internship & Work Experience**
+### 💼 **Internship & Work Experience**
 - **Emirates & Tech Mahindra**: Internship experiences in data analysis & customer segementation and behavior analysis.
 - **Lab Teaching Assistant**: Assisting students in computer science courses, clearing doubts conducting viva-voces and grading assignments.
 
