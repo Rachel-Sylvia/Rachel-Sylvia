@@ -27,12 +27,24 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
+![Protege](https://img.shields.io/badge/Protege-informational?style=flat&logoColor=white&color=004D40)
 
 #### **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F9AB00)
-![LaTeX](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&logoColor=white&color=008080)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F9AB00)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)  
+![Dataiku](https://img.shields.io/badge/Dataiku-informational?style=flat&logo=dataiku&logoColor=white&color=4B8BBE)  
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)  
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)  
+![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)  
+![JustinMind](https://img.shields.io/badge/JustinMind-informational?style=flat&logoColor=white&color=005571)  
+
+#### **Web Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)  
+![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)  
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)  
+![React.js](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000) 
+
 
 ---
 
@@ -44,8 +56,8 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ---
 
 ### 👯 **Internship & Work Experience**
-- **Emirates & Tech Mahindra**: Internship experiences in data analysis & research.
-- **Lab Teaching Assistant**: Assisting students in computer science labs, clearing doubts, and grading assignments.
+- **Emirates & Tech Mahindra**: Internship experiences in data analysis & customer segementation and behavior analysis.
+- **Lab Teaching Assistant**: Assisting students in computer science courses, clearing doubts conducting viva-voces and grading assignments.
 
 ---
 
@@ -54,12 +66,4 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 <a href="mailto:rachelsylvi333@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4"></a>
 
 ---
-
-### 📊 **GitHub Stats**
-<details><summary>Click to expand</summary>
-<div align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rachel-Sylvia&theme=dracula&hide_rank=true">
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-Sylvia&hide_progress=true&theme=dracula">
-</div>
-
 </details>
