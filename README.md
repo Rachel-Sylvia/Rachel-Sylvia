@@ -49,7 +49,7 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ---
 
 ### 👩‍💻 **Current Projects & Research**
-- **Final Year Thesis:** Developing a better forecasting model for hurricanes/cyclones using data-driven approaches.
+- **Final Year Thesis:** Explore, investigate and compare the current forecasting models, and developing an optimized forecasting model for hurricanes/cyclones using data-driven approaches.
 - **COVID Classification:** Implementing clustering models with PCA for COVID-19 patient classification.
 - **Statistical Programming & Analysis:** Conducted extensive research using R.
 
