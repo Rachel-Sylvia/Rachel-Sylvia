@@ -1,8 +1,8 @@
 ## Hi there!👋I'm Rachel Sylvia!
 
-🎓 **Final Year Computer Science Student** | **Teaching Assisstant at Heriot Watt University, Dubai** | 📊 **Data Science Enthusiast** | 👩‍💻 **Aspiring Data Scientist**
+🎓 **First Class Honors Graduate in Computer Science specialized in Data Science** | **Teaching Assisstant at Heriot Watt University, Dubai** | 📊 **Data Science Enthusiast** | 👩‍💻 **Aspiring Data Scientist and Business Analyst**
 
-Currently in my final year of BSc in Computer Science specializing in Data Science, with a passion for applying data-driven solutions in the aviation industry. Always eager to explore, analyze, and build predictive models for real-world challenges.
+Fresh Graduate of BSc Honors in Computer Science specializing in Data Science, with a passion for applying data-driven solutions in the aviation industry and the banking industry. Always eager to explore, analyze, and build predictive models for real-world challenges.
 
 ---
 
@@ -13,6 +13,8 @@ Currently in my final year of BSc in Computer Science specializing in Data Scien
 ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![R](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+
 
 #### **Data Science & ML Tools, Data Visualization & Analytics:**  
 ![Pandas](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
